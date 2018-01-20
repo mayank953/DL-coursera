@@ -2,3 +2,5 @@
 <p><span style="text-decoration: underline;"><strong><img src="https://www.webtunix.com/mysite/public/static/images/service-images/deep-learning-services.jpg" alt="Image result for Deep learning" /></strong></span></p>
 <p>This Repository contains the solution of all programming exercises which one will encounter while doing the Coursera - Machine learning Specialization on <a href="https://www.coursera.org/specializations/deep-learning">Coursera.</a></p>
 <p>I suggest one to first try the programming&nbsp;assignment themselves before referring to the solution.</p>
+<p>&nbsp;</p>
+<p>NOTE- Course 5 hasn't been launched. I will try to update it as soon as it becomes available along with quizzes of all the courses.&nbsp;</p>
